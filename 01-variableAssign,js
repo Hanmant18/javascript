@@ -1,0 +1,26 @@
+console.log("================1==============");
+var myFullName;
+console.log("full name value before initialiazation is:",myFullName);
+myFullName="Hanmant Khandekar";
+console.log("my first and last name after initialization is:",myFullName);
+// update variable
+var myFullName="Hanmant Sandal Khandekar";
+console.log("full name value after update is:",myFullName);
+console.log("================2==============");
+var myLove="I Love Only JS";
+console.log(myLove);
+console.log("================3==============");
+var firstName="Hanmant";
+console.log("first name is:",firstName);
+var lastName="Khandekar";
+console.log("last name is:",lastName);
+var age=22;
+console.log("age is:",age);
+var address="at-Banglore";
+console.log("address is",address);
+var pinCode=333333;
+console.log("pin code is:",pinCode);
+var gender="Male";
+console.log("gender is:",gender);
+var isMarried="False";
+console.log("marriege status is:",isMarried);
